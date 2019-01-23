@@ -1,0 +1,30 @@
+//*/ Vars /*//
+$colorWhite: #fff;
+$colorBlack: #000;
+
+$colorGreyXS: #E7E7E7;
+$colorGreyS: #C3C3C3;
+$colorGreyM: #A5A5A5;
+$colorGreyL: #696969;
+$colorGreyXL: #454545;
+$colorGreyXXL: #333333;
+
+$colorText: #222;
+$colorHeading: #222;
+
+$colorCD1-light: rgb(8, 94, 139);
+$colorCD1: #074D72;
+$colorCD1-dark: rgb(7, 62, 92);
+
+$colorCD2-light: rgb(234, 111, 243);
+$colorCD2: #E445EF;
+$colorCD2-dark: rgb(188, 60, 197);
+
+@import './normalize.scss';
+
+@import './skeleton.scss';
+@import './main.scss';
+@import './forms.scss';
+@import './grid.scss';
+
+@import './navigations.scss';
