@@ -2,6 +2,8 @@
 
 A Vue 2.0 app with server side rendering and minimal progressiv webapp feature.
 
+**[DEMO](https://vue-ssr-pwa.herokuapp.com/)**
+
 - vue-router
 - vuex
 - sass
