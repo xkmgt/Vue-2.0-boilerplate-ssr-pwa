@@ -1,4 +1,4 @@
-# Vue 2.0 boilerplate // ssr // pwa
+# Vue 2.0 // ssr // pwa // boilerplate
 
 A Vue 2.0 app with server side rendering and minimal progressiv webapp feature.
 
